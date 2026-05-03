@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C98EBBDE-8B84-4891-A480-720F609C27A4}|MAPPER\\MAPPER.csproj|c:\\users\\nicol\\onedrive\\documentos\\tp final\\valhalla\\template-api\\mapper\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C98EBBDE-8B84-4891-A480-720F609C27A4}|MAPPER\\MAPPER.csproj|solutionrelative:mapper\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69D4D19-F979-4B59-8E36-11B13C8C4088}|BLL\\BLL.csproj|c:\\users\\nicol\\onedrive\\documentos\\tp final\\valhalla\\template-api\\bll\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69D4D19-F979-4B59-8E36-11B13C8C4088}|BLL\\BLL.csproj|solutionrelative:bll\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Perfil_Herramienta.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\AppData\\Local\\Temp\\ueadv3vr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Equipos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Herramientas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\AppData\\Local\\Temp\\ueadv3vr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\AppData\\Local\\Temp\\ueadv3vr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Usuarios [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "dbo.Usuarios [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-03T16:34:30.321Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\NetworkHelper.cs",
+              "RelativeDocumentMoniker": "BLL\\NetworkHelper.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\NetworkHelper.cs",
+              "RelativeToolTip": "BLL\\NetworkHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:15:17.07Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -50,15 +98,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserMapper.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\UserMapper.cs",
-              "RelativeDocumentMoniker": "MAPPER\\UserMapper.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\UserMapper.cs",
-              "RelativeToolTip": "MAPPER\\UserMapper.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAnwA8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T22:55:07.824Z",
+              "DocumentIndex": 4,
+              "Title": "dbo.Equipos [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Equipos.sql",
+              "ToolTip": "dbo.Equipos [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-03T17:48:30.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Roles [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-03T16:49:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\nicol\\AppData\\Local\\Temp\\ueadv3vr..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ueadv3vr..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-03T16:46:59.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Herramientas [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Herramientas.sql",
+              "ToolTip": "dbo.Herramientas [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-03T16:41:16.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Perfil_Herramienta [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_KKQIPV3L/VALHALLA_DB/True/SqlTable/dbo.Perfil_Herramienta.sql",
+              "ToolTip": "dbo.Perfil_Herramienta [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-03T16:41:02.234Z",
               "EditorCaption": ""
             }
           ]
