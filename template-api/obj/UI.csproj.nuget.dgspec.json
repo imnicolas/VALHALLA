@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\template-api\\UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj"
+              },
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\MAPPER.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\MAPPER.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj",
+        "projectName": "ENTITY",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\MAPPER.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\MAPPER.csproj",
+        "projectName": "MAPPER",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\MAPPER.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\MAPPER\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\template-api\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\template-api\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\template-api\\UI.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\template-api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj": {
+                "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\TP FINAL\\VALHALLA\\TEMPLATE-API\\ENTITY\\ENTITY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\ENTITY.dll
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\MAPPER.dll
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\windows\source\repos\template-api\DAL\bin\Debug\net8.0\MAPPER.pdb
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\windows\source\repos\template-api\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\bin\Debug\net8.0\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\DAL\obj\Debug\net8.0\ref\DAL.dll

@@ -1,0 +1,39 @@
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\ENTITY.dll
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\MAPPER.dll
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\windows\source\repos\template-api\BLL\bin\Debug\net8.0\MAPPER.pdb
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\windows\source\repos\template-api\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\MAPPER.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\bin\Debug\net8.0\MAPPER.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\BLL\obj\Debug\net8.0\ref\BLL.dll

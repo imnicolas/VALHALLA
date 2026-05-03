@@ -1,0 +1,23 @@
+C:\Users\windows\source\repos\template-api\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\windows\source\repos\template-api\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\windows\source\repos\template-api\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\windows\source\repos\template-api\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.sourcelink.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll

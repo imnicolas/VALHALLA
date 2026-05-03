@@ -1,0 +1,30 @@
+C:\Users\windows\source\repos\template-api\MAPPER\bin\Debug\net8.0\MAPPER.deps.json
+C:\Users\windows\source\repos\template-api\MAPPER\bin\Debug\net8.0\MAPPER.dll
+C:\Users\windows\source\repos\template-api\MAPPER\bin\Debug\net8.0\MAPPER.pdb
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.csproj.AssemblyReference.cache
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.AssemblyInfo.cs
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.dll
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\refint\MAPPER.dll
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\MAPPER.pdb
+C:\Users\windows\source\repos\template-api\MAPPER\obj\Debug\net8.0\ref\MAPPER.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\MAPPER.deps.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\MAPPER.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\MAPPER.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.sourcelink.json
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\refint\MAPPER.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\ref\MAPPER.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\DAL.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\ENTITY.dll
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\DAL.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\nicol\OneDrive\Documentos\TP FINAL\VALHALLA\TEMPLATE-API\MAPPER\obj\Debug\net8.0\MAPPER.csproj.Up2Date
